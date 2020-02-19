@@ -1,0 +1,27 @@
+[
+{"country":"India","code":"+91","state":
+    [
+    {"s_name":"West Bengal","city":["Medinipur","Kolkata"]},
+    {"s_name":"Punjab","city":["Chandighar","Punchkula"]}
+    ]
+},
+{"country":"Nepal","code":"+97","state":
+    [
+        {"s_name":"state_1","city":["City_1","city_2"]},
+        {"s_name":"state_2","city":["C_1","c_2"]}
+
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+]
